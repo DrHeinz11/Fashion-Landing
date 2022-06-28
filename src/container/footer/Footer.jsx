@@ -19,7 +19,7 @@ export default function Footer() {
           flexDirection={"column"}
           gap="10px"
         >
-          <Heading fontSize="xl" color="white">
+          <Heading letterSpacing='3px' fontSize="xl" color="white">
             Contact
           </Heading>
           <Text fontSize={"md"} color="white">
@@ -30,7 +30,7 @@ export default function Footer() {
           <Text></Text>
         </Stack>
         <Stack width={{ base: "100%", md: "auto" }}>
-          <Heading fontSize="xl" color="white">
+          <Heading letterSpacing='3px' fontSize="xl" color="white">
             Newsletter
           </Heading>
           <Stack spacing={"3"} display="flex" flex-direction="row">
