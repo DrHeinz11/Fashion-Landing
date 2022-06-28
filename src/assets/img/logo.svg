@@ -1,0 +1,17 @@
+<svg id="logo" xmlns="http://www.w3.org/2000/svg" width="79" height="45" viewBox="0 0 79 45">
+  <g id="Grupo_47" data-name="Grupo 47" transform="translate(70.183 24.434)">
+    <path id="Trazado_33" data-name="Trazado 33" d="M20.952,7a47.133,47.133,0,0,1,.352,7.034,47.133,47.133,0,0,1-.352,7.034,47.133,47.133,0,0,1-.352-7.034A44.839,44.839,0,0,1,20.952,7Z" transform="translate(-20.6 -7)"/>
+  </g>
+  <g id="Grupo_48" data-name="Grupo 48" transform="translate(63.501 31.116)">
+    <path id="Trazado_34" data-name="Trazado 34" d="M32.768,9.252a47.133,47.133,0,0,1-7.034.352A47.133,47.133,0,0,1,18.7,9.252,47.133,47.133,0,0,1,25.734,8.9,47.133,47.133,0,0,1,32.768,9.252Z" transform="translate(-18.7 -8.9)"/>
+  </g>
+  <g id="Grupo_49" data-name="Grupo 49" transform="translate(67.018 27.951)">
+    <path id="Trazado_35" data-name="Trazado 35" d="M19.7,14.682a31.709,31.709,0,0,0,3.165-3.517A31.708,31.708,0,0,1,26.382,8a31.708,31.708,0,0,0-3.165,3.517A31.708,31.708,0,0,1,19.7,14.682Z" transform="translate(-19.7 -8)"/>
+  </g>
+  <g id="Grupo_50" data-name="Grupo 50" transform="translate(67.018 27.951)">
+    <path id="Trazado_36" data-name="Trazado 36" d="M26.382,14.682a31.708,31.708,0,0,0-3.517-3.165A31.708,31.708,0,0,1,19.7,8a31.707,31.707,0,0,0,3.517,3.165C24.272,12.22,25.327,13.627,26.382,14.682Z" transform="translate(-19.7 -8)"/>
+  </g>
+  <circle id="Elipse_10" data-name="Elipse 10" cx="0.703" cy="0.703" r="0.703" transform="translate(69.831 30.764)" stroke="#575756" stroke-miterlimit="10" stroke-width="0.25"/>
+  <text id="Fashion._Week" data-name="Fashion.
+Week" transform="translate(0 17)" font-size="21" font-family="Runalto"><tspan x="0" y="0">Fashion.</tspan><tspan x="0" y="22">Week</tspan></text>
+</svg>
