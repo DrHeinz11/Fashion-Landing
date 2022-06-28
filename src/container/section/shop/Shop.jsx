@@ -9,7 +9,13 @@ export default function Shop() {
         maxWidth="1000px"
         margin={{ lg: "50px auto", base: "0 auto" }}
       >
-        <Box display="flex" gap="15px" flexDirection="column">
+        <Box
+          display="flex"
+          gap="15px"
+          flexDirection="column"
+          margin="auto"
+          w={{ lg: "50%", base: "100%" }}
+        >
           <Text textAlign="center" fontWeight="300" textTransform="uppercase">
             our collection
           </Text>
