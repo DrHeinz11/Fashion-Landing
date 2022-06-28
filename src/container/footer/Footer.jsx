@@ -12,8 +12,6 @@ export default function Footer() {
         gap={{ md: "25px", base: "10px" }}
         backgroundColor="#242424"
         p={{ md: "25px", base: "15px 15px" }}
-        position="relative"
-        top='10px'
       >
         <Logo />
         <Stack
@@ -54,7 +52,9 @@ export default function Footer() {
           </Stack>
         </Stack>
       </Stack>
-      <Text bg='#000' textAlign='center' color='whiteAlpha.400'>Copyrights@FrancoMartin</Text>
+      <Text bg="#000" textAlign="center" color="whiteAlpha.400">
+        Copyrights@FrancoMartin
+      </Text>
     </>
   );
 }
